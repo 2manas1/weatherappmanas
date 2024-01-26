@@ -1,3 +1,6 @@
+<img width="1440" alt="clima app" src="https://github.com/2manas1/weatherappmanas/assets/95990830/3d49af3b-5b4a-4355-9c52-f513887b210b">
+
+
 iOS Weather Application - OpenWeatherMap Integration
 
 Project Overview:
